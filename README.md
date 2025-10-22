@@ -69,10 +69,10 @@
 - **Power BI:** role and department dashboards
 - **Python** : data validations and checks
 
-## Limitations and next steps
+## Limitations
 - Assumes stable service demand
 - Does not include recruiting capacity constraints
-- Next steps: add headcount ramps, training curves, and service-level KPIs
+
 
 
 ## Contact
