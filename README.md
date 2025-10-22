@@ -16,7 +16,7 @@
 - OT budget by department and role
 - Pension and benefits loadings
 
-**Privacy:** No PII. Data is aggregated and masked.
+
 
 ## Method
 1. **Data prep**
@@ -59,7 +59,7 @@
 - Cost per FTE and run rate
 - Forecast accuracy for the selected plan
 
-## Results (example)
+## Results 
 - Recommended **75% hiring / 25% OT** as the best balance of savings and coverage
 - Projected **$548k** reduction in labor cost and a meaningful drop in overtime reliance
 - Clear hiring plan for OT-concentrated roles in Police and Fire
@@ -67,15 +67,13 @@
 ## Tech
 - **Excel:** Power Query, PivotTables, scenario and sensitivity tables
 - **Power BI:** role and department dashboards
-- **Python** (optional): data validations and checks
+- **Python** : data validations and checks
 
 ## Limitations and next steps
 - Assumes stable service demand
 - Does not include recruiting capacity constraints
 - Next steps: add headcount ramps, training curves, and service-level KPIs
 
-## License
-Add a license (MIT is common for open repos).
 
 ## Contact
 Questions or collaboration requests are welcome. Open an issue or reach out via your GitHub profile.
